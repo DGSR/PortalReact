@@ -1,0 +1,422 @@
+{
+  "common": {
+    "gb": {
+      "en": "GB",
+      "ru": "Гб"
+    },
+    "ghz": {
+      "en": "GHz",
+      "ru": "ГГц"
+    },
+    "spbMow": {
+      "en": "SPb / MOW",
+      "ru": "СПб / МСК"
+    },
+    "errorLoadingData": {
+      "en": "Error, could not load data",
+      "ru": "Ошибка, не возможно загрузить данные"
+    },
+    "portal": {
+      "en": "Portal",
+      "ru": "Портал"
+    }
+  },
+  "topbar": {
+    "search": {
+      "en": "Search...",
+      "ru": "Поиск..."
+    },
+    "messages": {
+      "en": "Messages",
+      "ru": "Сообщения"
+    },
+    "language": {
+      "en": "Language",
+      "ru": "Язык"
+    },
+    "greet": {
+      "en": "Welcome",
+      "ru": "Здравствуйте"
+    },
+    "profile": {
+      "en": "Profile",
+      "ru": "Профиль"
+    },
+    "settings": {
+      "en": "Settings",
+      "ru": "Настройки"
+    },
+    "logout": {
+      "en": "Logout",
+      "ru": "Выйти"
+    },
+    "viewall": {
+      "en": "View All",
+      "ru": "Посмотреть всё"
+    },
+    "minago": {
+      "en": "min ago",
+      "ru": "мин назад"
+    }
+  },
+  "rightbar":{
+    "activity": {
+      "en": "Activity",
+      "ru": "Активность"
+    }
+  },
+  "main": {
+      "title": {
+        "en": "Dashboard",
+        "ru": "Главная страница"
+      },
+      "card-1": {
+        "en": "Virtual Datacenters",
+        "ru": "Виртуальные Датацентры"
+      },
+      "card-1-caption": {
+        "en": "Virtual Servers Powered On",
+        "ru": "Виртуальных серверов включено"
+      },
+      "card-2": {
+        "en": "Rack Units",
+        "ru": "Монтажная единица"
+      },
+      "card-2-caption": {
+        "en": "Power Consumed",
+        "ru": "Энергии затрачено"
+      },
+      "card-3": {
+        "en": "Direct Internet Access - Gbps",
+        "ru": "Прямой доступ в Интернет - Гбит/с"
+      },
+      "card-3-caption": {
+        "en": "Average consumed",
+        "ru": "В среднем затрачено"
+      },
+      "card-4": {
+        "en": "BAAS Service - TB",
+        "ru": "BAAS - ТБ"
+      },
+      "card-4-caption": {
+        "en": "Consumed",
+        "ru": "Затрачено"
+      },
+      "chart-cloud": {
+        "en": "Cloud Statistics",
+        "ru": "Облачная Статистика"
+      },
+      "cpuConsumed": {
+        "en": "CPU Consumed",
+        "ru": "ЦПУ Затрачено"
+      },
+      "ramConsumed": {
+        "en": "RAM Consumed",
+        "ru": "ОЗУ Затрачено"
+      },
+      "storageAllocated": {
+        "en": "Storage Allocated",
+        "ru": "Хранилище Затрачено"
+      },
+      "storageConsumed": {
+        "en": "Storage Consumed",
+        "ru": "Хранилище Затрачено"
+      },
+      "chart-network": {
+        "en": "Network Statistics",
+        "ru": "Сетевая Статистика"
+      },
+      "chart-network-caption": {
+        "en": "Aggregated Channels Utilization",
+        "ru": "Использование аггрегированных каналов"
+      },
+      "chart-table": {
+        "en": "Top Contracts",
+        "ru": "Лучшие сделки"
+      },
+      "company": {
+        "en": "Company",
+        "ru": "Компания"
+      },
+      "startdate": {
+        "en": "Start Date",
+        "ru": "Начало сделки"
+      },
+      "enddate": {
+        "en": "End Date",
+        "ru": "Конец сделки"
+      },
+      "status": {
+        "en": "Status",
+        "ru": "Статус"
+      },
+      "paid": {
+        "en": "Paid",
+        "ru": "Оплачена"
+      },
+      "unpaid": {
+        "en": "Unpaid",
+        "ru": "Не оплачена"
+      },
+      "kw": {
+        "en": "kW",
+        "ru": "кВт"
+      },
+      "Gbps": {
+        "en": "Gbps",
+        "ru": "Гбит/с"
+      },
+      "TB": {
+        "en": "TB",
+        "ru": "Тб"
+      }
+  },
+  "sidebar": {
+      "main-caption": {
+        "en": "Resources and Services",
+        "ru": "Ресурсы и сервисы"
+      },
+      "cloud": {
+        "en": "Cloud",
+        "ru": "Облако"
+      },
+      "summary": {
+        "en": "Organizations Summary",
+        "ru": "Сводка по организациям"
+      },
+      "resources": {
+        "en": "Resources",
+        "ru": "Ресурсы"
+      },
+      "lastOrg": {
+        "en": "Last Organization: ",
+        "ru": "Последняя Организация: "
+      },
+      "lastVDC": {
+        "en": "Last VDC: ",
+        "ru": "Последняя VDC: "
+      },
+      "lastVM": {
+        "en": "Last VM: ",
+        "ru": "Последняя VM: "
+      }
+  },
+  "resources": {
+      "title": {
+        "en": "Organizations",
+        "ru": "Организации"
+      },
+      "titleExtended": {
+        "en": "Virtual Machines Statistics",
+        "ru": "Статистика Виртуальных Машин"
+      },
+      "briefStats": {
+        "en": "Brief stats for all VMs",
+        "ru": "Краткая статистика по всем ВМ"
+      },
+      "orgName": {
+        "en": "Organization Name",
+        "ru": "Название организации"
+      },
+      "vdcName": {
+        "en": "VDC Name",
+        "ru": "Название VDC"
+      },
+      "vmName": {
+        "en": "VM Name",
+        "ru": "Название VM"
+      },
+      "cpuOrdered": {
+        "en": "CPU Ordered",
+        "ru": "ЦПУ Заказано"
+      },
+      "cpuAllocated": {
+        "en": "CPU Allocated",
+        "ru": "ЦПУ Размещено"
+      },
+      "cpuUsed": {
+        "en": "CPU Used",
+        "ru": "ЦПУ Использовано"
+      },
+      "ramOrdered": {
+        "en": "RAM Ordered",
+        "ru": "ОЗУ Заказано"
+      },
+      "ramAllocated": {
+        "en": "RAM Allocated",
+        "ru": "ОЗУ Заказано"
+      },
+      "ramUsed": {
+        "en": "RAM Used",
+        "ru": "ОЗУ Использовано"
+      },
+      "storageAllocated": {
+        "en": "Storage Allocated",
+        "ru": "Хранилища размещено"
+      },
+      "storageOrdered": {
+        "en": "Storage Ordered",
+        "ru": "Хранилища заказано"
+      },
+      "storageUsed": {
+        "en": "Storage Used",
+        "ru": "Хранлища использовано"
+      },
+      "storagePolicy": {
+        "en": "Storage Policy",
+        "ru": "Политика Хранилища"
+      },
+      "storage": {
+        "en": "Storage",
+        "ru": "Хранилище"
+      },
+      "numberOf": {
+        "en": "Number of",
+        "ru": "Число"
+      },
+      "coresPerSocket": {
+        "en": "cores per socket",
+        "ru": "ядер на сокет"
+      },
+      "dateCreated": {
+        "en": "Date Created",
+        "ru": "Дата Создания"
+      },
+      "hardDisk": {
+        "en": "Hard Disk",
+        "ru": "Жесткий Диск"
+      },
+      "busType": {
+        "en": "Bus Type",
+        "ru": "Тип Шины"
+      },
+      "busNumber": {
+        "en": "Bus Number",
+        "ru": "Номер Шины"
+      },
+      "connected": {
+        "en": "Connected",
+        "ru": "Соединен"
+      },
+      "primary": {
+        "en": "Primary",
+        "ru": "Основной"
+      },
+      "allocated": {
+        "en": "Allocated",
+        "ru": "Размещено"
+      },
+      "used": {
+        "en": "Used",
+        "ru": "Использовано"
+      },
+      "ordered": {
+        "en": "Ordered",
+        "ru": "Размещено"
+      },
+      "sasOrdered": {
+        "en": "SAS Ordered",
+        "ru": "SAS заказано"
+      },
+      "ssdOrdered": {
+        "en": "SSD Ordered",
+        "ru": "SSD заказано"
+      },
+      "cloudLocation": {
+        "en": "Cloud Location",
+        "ru": "Расположение Облака"
+      },
+      "detailsLink": {
+        "en": "Details Link",
+        "ru": "Подробнее"
+      },
+      "status":{
+        "en": "Status",
+        "ru": "Статус"
+      },
+      "description":{
+        "en": "Description",
+        "ru": "Описание"
+      },
+      "networkquota":{
+        "en": "Network quota",
+        "ru": "Сетевая квота"
+      },
+      "organizationResources":{
+        "en": "Organization Resources for",
+        "ru": "Ресурсы организации для"
+      },
+      "synchroTime":{
+        "en": "Synchronize Time",
+        "ru": "Синхронизация времени"
+      },
+      "vdcResources":{
+        "en": "VDC Resources for",
+        "ru": "Ресурсы VDC для"
+      },
+      "vmResources":{
+        "en": "VM Resources for",
+        "ru": "Ресурсы VM для"
+      },
+      "enabled":{
+        "en": "Enabled",
+        "ru": "Включен"
+      },
+      "disabled":{
+        "en": "Disabled",
+        "ru": "Выключен"
+      },
+      "lastUpdated": {
+        "en": "Last Updated",
+        "ru": "Последнее обновление"
+      },
+      "limit": {
+        "en": "Limit",
+        "ru": "Лимит"
+      },
+      "hideInfo": {
+          "en": "Hide Info",
+          "ru": "Скрыть подробности"
+      },
+      "showInfo": {
+        "en": "Show Info",
+        "ru": "Показать подробно"
+      },
+
+      "ghz":{
+        "en": "GHz",
+        "ru": "ГГц"
+      },
+      "gb":{
+          "en": "GB",
+          "ru": "ГБ"
+        },
+      "tb": {
+        "en": "TB",
+        "ru": "Тб"
+      }
+
+  },
+  "summary": {
+    "availabilityZones": {
+      "en": "Availability Zones",
+      "ru": "Зоны доступа"
+    },
+    "virtualMachines": {
+      "en": "Virtual Machines",
+      "ru": "Виртуальные машины"
+    },
+    "ipAddresses": {
+      "en": "IP Addresses",
+      "ru": "IP Адреса"
+    },
+    "routedNetworks": {
+      "en": "Routed Networks",
+      "ru": "Маршрутизируемые Сети"
+    },
+    "virtualGateways": {
+      "en": "Virtual Gateways",
+      "ru": "Виртуальные шлюзы"
+    }
+  }
+}
